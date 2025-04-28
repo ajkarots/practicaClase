@@ -5,8 +5,17 @@
 .icon-link > .bi {
   width: .75em;
   height: .75em;
+  border-radius: 15px 30px;
+  text-decoration: none;
 }
 
+.icon-link{
+  width: .75em;
+  height: .75em;
+  border-radius: 15px 30px;
+  text-decoration: none;
+  color: black;
+}
 /*
  * Custom translucent site header
  */
